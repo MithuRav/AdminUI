@@ -1,2 +1,0 @@
-# AdminUI
-Geektrust question
